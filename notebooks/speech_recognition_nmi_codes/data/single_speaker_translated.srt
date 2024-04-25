@@ -1,0 +1,512 @@
+1
+00:00:00,000 --> 00:00:06,000
+Good morning. I'm Dr. Martin. What's your name?
+
+2
+00:00:06,000 --> 00:00:08,000
+Juan de la Cruz.
+
+3
+00:00:08,000 --> 00:00:10,000
+Juan de la Cruz. How old are you?
+
+4
+00:00:10,000 --> 00:00:12,000
+I'm 30 years old.
+
+5
+00:00:12,000 --> 00:00:16,000
+What's the reason you went to the emergency room? What are you going to see?
+
+6
+00:00:16,000 --> 00:00:20,000
+My stomach hurts since this morning.
+
+7
+00:00:20,000 --> 00:00:28,000
+This morning? Okay. What did you eat last before your stomach hurt? What are you doing?
+
+8
+00:00:28,000 --> 00:00:34,000
+Actually, last night, my friends and I drank.
+
+9
+00:00:34,000 --> 00:00:38,000
+When I got home, I didn't eat anything.
+
+10
+00:00:38,000 --> 00:00:44,000
+But when I woke up this morning, because of my hangover, I had coffee.
+
+11
+00:00:44,000 --> 00:00:48,000
+Okay. What did you drink last night?
+
+12
+00:00:48,000 --> 00:00:54,000
+Hard liquor like vodka and tequila.
+
+13
+00:00:54,000 --> 00:01:00,000
+Okay. Can you estimate how many glasses or bottles you drank last night?
+
+14
+00:01:00,000 --> 00:01:09,000
+What I remember is we drank two shots of tequila and two shots of vodka.
+
+15
+00:01:09,000 --> 00:01:14,000
+Okay. But yesterday, you didn't feel anything? You didn't vomit?
+
+16
+00:01:14,000 --> 00:01:21,000
+Yesterday, I didn't feel anything. I went home and I didn't feel anything.
+
+17
+00:01:21,000 --> 00:01:24,000
+Okay. What time did you wake up earlier?
+
+18
+00:01:24,000 --> 00:01:33,000
+Earlier, I woke up at 5 o'clock because of my hangover.
+
+19
+00:01:33,000 --> 00:01:36,000
+I decided to have coffee.
+
+20
+00:01:36,000 --> 00:01:39,000
+After I had coffee, that's where my stomach hurt.
+
+21
+00:01:39,000 --> 00:01:43,000
+Okay. It's now 8 o'clock.
+
+22
+00:01:43,000 --> 00:01:52,000
+Okay. So if it's 5 o'clock, it's been three hours since you started feeling it.
+
+23
+00:01:52,000 --> 00:01:54,000
+Then you drank coffee.
+
+24
+00:01:54,000 --> 00:01:58,000
+Okay. Which part of your stomach hurts?
+
+25
+00:01:58,000 --> 00:02:04,000
+The part I feel the most is the upper part of my heart.
+
+26
+00:02:04,000 --> 00:02:05,000
+The lower part?
+
+27
+00:02:05,000 --> 00:02:06,000
+Yes.
+
+28
+00:02:06,000 --> 00:02:14,000
+Okay. If you were to give a score of how much it hurts, from 1 to 10, 10 is very painful, 5 is a bit, 0 is nothing.
+
+29
+00:02:14,000 --> 00:02:17,000
+What is your pain score for now?
+
+30
+00:02:17,000 --> 00:02:20,000
+For now, 7 out of 10.
+
+31
+00:02:20,000 --> 00:02:22,000
+Ah, so it's really painful.
+
+32
+00:02:22,000 --> 00:02:28,000
+Do you feel pain in the back or just in the middle? Just there in your stomach?
+
+33
+00:02:28,000 --> 00:02:36,000
+It used to hurt in the back, but now it's more in the middle.
+
+34
+00:02:36,000 --> 00:02:44,000
+Okay. Can you describe the pain? Is it painful? Is it like being stabbed? Is it like being beaten? What is the description of the pain?
+
+35
+00:02:44,000 --> 00:02:53,000
+Now, it's like it's painful. It's like I want to puke and it hurts a bit.
+
+36
+00:02:53,000 --> 00:02:58,000
+Then it goes on, right? It doesn't disappear, it comes back, right?
+
+37
+00:02:58,000 --> 00:02:59,000
+Yes.
+
+38
+00:02:59,000 --> 00:03:08,000
+Okay. Aside from the pain of the stomach now, do you feel pain in the stomach? Is it hard to rest? Is it painful in the stomach? What do you feel?
+
+39
+00:03:08,000 --> 00:03:17,000
+There is no pain in the stomach, but it's like I'm catching my breath, it's like I'm choking.
+
+40
+00:03:17,000 --> 00:03:18,000
+Okay.
+
+41
+00:03:18,000 --> 00:03:23,000
+But apart from that, there is no continued vomiting.
+
+42
+00:03:23,000 --> 00:03:26,000
+How is your pooping?
+
+43
+00:03:26,000 --> 00:03:37,000
+When I got home last night, I just pooped once, but this morning, there is still no chance of pooping.
+
+44
+00:03:37,000 --> 00:03:41,000
+But these past days, your poops are not black.
+
+45
+00:03:41,000 --> 00:03:44,000
+What past days? I don't have any. My poop is normal.
+
+46
+00:03:44,000 --> 00:03:45,000
+Your poop is normal?
+
+47
+00:03:45,000 --> 00:03:46,000
+Yes.
+
+48
+00:03:46,000 --> 00:03:48,000
+Okay. Are you sick?
+
+49
+00:03:48,000 --> 00:03:49,000
+I'm sick, I don't have any.
+
+50
+00:03:49,000 --> 00:03:58,000
+You don't have any? Okay. Aside from this, do you have any other diseases like high blood, diabetes?
+
+51
+00:03:58,000 --> 00:04:01,000
+I don't have high blood or diabetes.
+
+52
+00:04:01,000 --> 00:04:02,000
+Did you go to the hospital recently?
+
+53
+00:04:02,000 --> 00:04:03,000
+I don't have any.
+
+54
+00:04:03,000 --> 00:04:04,000
+Did you get operated?
+
+55
+00:04:04,000 --> 00:04:05,000
+I don't have any.
+
+56
+00:04:05,000 --> 00:04:07,000
+Do you have any allergies to food or medicine?
+
+57
+00:04:07,000 --> 00:04:08,000
+I don't have any.
+
+58
+00:04:08,000 --> 00:04:10,000
+Do you have a sore throat?
+
+59
+00:04:10,000 --> 00:04:11,000
+I don't have any.
+
+60
+00:04:11,000 --> 00:04:12,000
+You don't have any.
+
+61
+00:04:12,000 --> 00:04:16,000
+But how is drinking alcohol? Do we drink a lot?
+
+62
+00:04:16,000 --> 00:04:27,000
+To be honest, almost every week, we go out with friends to drink.
+
+63
+00:04:27,000 --> 00:04:31,000
+This habit has been around for years.
+
+64
+00:04:31,000 --> 00:04:34,000
+Okay. So how many times a week is this?
+
+65
+00:04:34,000 --> 00:04:39,000
+In one week, we go out almost every other day.
+
+66
+00:04:39,000 --> 00:04:44,000
+That's also the case with the consumption of alcohol.
+
+67
+00:04:44,000 --> 00:04:50,000
+Yes, that's where we play. Sometimes it's more, sometimes it's less. But that's the average.
+
+68
+00:04:50,000 --> 00:04:52,000
+Okay.
+
+69
+00:04:54,000 --> 00:04:59,000
+This is just a standard question. Is the use of drugs prohibited?
+
+70
+00:04:59,000 --> 00:05:03,000
+I haven't tried anything that prohibits drugs.
+
+71
+00:05:03,000 --> 00:05:04,000
+Okay.
+
+72
+00:05:04,000 --> 00:05:05,000
+Okay.
+
+73
+00:05:05,000 --> 00:05:09,000
+But in your family, how is it? Is there a type of high blood, diabetes?
+
+74
+00:05:09,000 --> 00:05:15,000
+On my father's website, there's a history of high blood.
+
+75
+00:05:15,000 --> 00:05:19,000
+On my mother's website, it's diabetes.
+
+76
+00:05:19,000 --> 00:05:20,000
+Okay.
+
+77
+00:05:20,000 --> 00:05:21,000
+Okay.
+
+78
+00:05:21,000 --> 00:05:24,000
+So for now, we're going to examine you.
+
+79
+00:05:24,000 --> 00:05:28,000
+I'll get your vital signs. We'll just repeat it.
+
+80
+00:05:28,000 --> 00:05:29,000
+Okay.
+
+81
+00:05:29,000 --> 00:05:32,000
+So your BP right now, let's just check.
+
+82
+00:05:32,000 --> 00:05:36,000
+So it's 120 over 80, sir. So your BP is normal.
+
+83
+00:05:36,000 --> 00:05:40,000
+Your heart rate is 80 beats per minute.
+
+84
+00:05:40,000 --> 00:05:45,000
+Then your respiratory rate is at 18 cycles per minute, which is normal.
+
+85
+00:05:45,000 --> 00:05:50,000
+Your temperature is 36.5, which is normal. You don't have a fever right now.
+
+86
+00:05:50,000 --> 00:05:54,000
+Your level of oxygen is also good at 98%.
+
+87
+00:05:54,000 --> 00:05:55,000
+Okay.
+
+88
+00:05:55,000 --> 00:05:56,000
+Okay.
+
+89
+00:05:56,000 --> 00:05:58,000
+I'll just examine you, sir.
+
+90
+00:05:58,000 --> 00:05:59,000
+Okay.
+
+91
+00:05:59,000 --> 00:06:03,000
+I'll just look at your eyes. They're not bluish.
+
+92
+00:06:03,000 --> 00:06:05,000
+They're not pale either.
+
+93
+00:06:05,000 --> 00:06:09,000
+So you have anectaric sclera, pink palpebral conjunctiva,
+
+94
+00:06:09,000 --> 00:06:14,000
+no nasooral discharge,
+
+95
+00:06:14,000 --> 00:06:18,000
+no neck vein distension,
+
+96
+00:06:18,000 --> 00:06:23,000
+no anterior neck mass,
+
+97
+00:06:23,000 --> 00:06:25,000
+no perioral,
+
+98
+00:06:25,000 --> 00:06:27,000
+no ulitions,
+
+99
+00:06:27,000 --> 00:06:30,000
+no tonsiloparyngeal congestion.
+
+100
+00:06:30,000 --> 00:06:31,000
+Okay. Moving on.
+
+101
+00:06:31,000 --> 00:06:34,000
+I'll just examine your chest.
+
+102
+00:06:34,000 --> 00:06:37,000
+Symmetrical chest expansion, clear breath sounds,
+
+103
+00:06:37,000 --> 00:06:40,000
+no wheeze, no crackles,
+
+104
+00:06:40,000 --> 00:06:43,000
+normal rate, regular rhythm, no murmur,
+
+105
+00:06:43,000 --> 00:06:47,000
+soft, flat abdomen,
+
+106
+00:06:47,000 --> 00:06:52,000
+with minimal tenderness and epigastric area.
+
+107
+00:06:52,000 --> 00:07:01,000
+And then full equal pulses with CRT of less than two seconds.
+
+108
+00:07:01,000 --> 00:07:02,000
+Okay.
+
+109
+00:07:02,000 --> 00:07:07,000
+Now for my current assessment as acid peptic disease,
+
+110
+00:07:07,000 --> 00:07:09,000
+rollout acute pancreatitis.
+
+111
+00:07:09,000 --> 00:07:14,000
+Now for our plan, I'll be inserting an IV axis,
+
+112
+00:07:14,000 --> 00:07:17,000
+gauge 20,
+
+113
+00:07:17,000 --> 00:07:24,000
+and then I will hook my patient to a plain NSS at 80 cc per hour.
+
+114
+00:07:24,000 --> 00:07:29,000
+We'll give padtoprazole 40-milligram IV now.
+
+115
+00:07:29,000 --> 00:07:33,000
+And then I will be requesting for the following diagnostics,
+
+116
+00:07:33,000 --> 00:07:40,000
+CBC, urinalysis, serum lipase.
+
+117
+00:07:40,000 --> 00:07:46,000
+And then I will place my patient on NPO.
+
+118
+00:07:46,000 --> 00:07:47,000
+Okay.
+
+119
+00:07:47,000 --> 00:07:52,000
+And then we'll observe the patient, monitor the vital signs every hour,
+
+120
+00:07:52,000 --> 00:07:54,000
+and for serial abdominal exam.
+
+121
+00:07:54,000 --> 00:07:55,000
+Okay, sir.
+
+122
+00:07:55,000 --> 00:07:58,000
+So, we'll give you the medicines,
+
+123
+00:07:58,000 --> 00:07:59,000
+we'll give you the IV,
+
+124
+00:07:59,000 --> 00:08:01,000
+and then we'll observe you now.
+
+125
+00:08:01,000 --> 00:08:02,000
+Don't eat too much.
+
+126
+00:08:02,000 --> 00:08:03,000
+Thank you, sir.
+
+127
+00:08:03,000 --> 00:08:04,000
+Thank you, sir.
+
+128
+00:08:04,000 --> 00:08:05,000
+Thank you, though.
+

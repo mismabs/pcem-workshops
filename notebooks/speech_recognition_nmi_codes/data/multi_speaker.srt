@@ -1,0 +1,464 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello po, good afternoon po. Ako po si Dr. Juan de la Cruz, yung doctor ninyo.
+
+2
+00:00:05,000 --> 00:00:09,000
+Today, ano pa ang nangyari sa inyo? Ba't kayo nagpunta sa ER?
+
+3
+00:00:09,000 --> 00:00:11,000
+Mahihina ako.
+
+4
+00:00:11,000 --> 00:00:14,000
+Kailan po nagsimalay ang panghihina nyo?
+
+5
+00:00:14,000 --> 00:00:17,000
+Kanina lang ala stress?
+
+6
+00:00:17,000 --> 00:00:21,000
+Hindi, kanina lang ala after ng lunch.
+
+7
+00:00:21,000 --> 00:00:23,000
+After lunch?
+
+8
+00:00:23,000 --> 00:00:26,000
+Basta napansin ko nalang na parang hirap ako.
+
+9
+00:00:26,000 --> 00:00:30,000
+Iban na yung paglakad ko na tutumbak ko sa kanan.
+
+10
+00:00:30,000 --> 00:00:33,000
+Ngayon po, mga nasa ala 5 po ngayon.
+
+11
+00:00:33,000 --> 00:00:36,000
+So, mga 4 na oras na po. Simula na nanghihina kayo.
+
+12
+00:00:36,000 --> 00:00:38,000
+Ala 5 na?
+
+13
+00:00:41,000 --> 00:00:48,000
+Tapos, yung panghihina nyo po ba ay buong katawan o may parte lang na hindi po maigalao?
+
+14
+00:00:48,000 --> 00:00:54,000
+Actually, nung dinadala na ako dito sa hospital, napansin ko pati yung kanang kamay ko.
+
+15
+00:00:54,000 --> 00:00:59,000
+Hindi ko namangat. Parang pagsakay ko sa tricycle.
+
+16
+00:00:59,000 --> 00:01:04,000
+Oo, kasi hindi niya namahawakan yung handle.
+
+17
+00:01:04,000 --> 00:01:06,000
+Nanguhulog na siya.
+
+18
+00:01:06,000 --> 00:01:08,000
+Nawalan po ba siya ng malay?
+
+19
+00:01:08,000 --> 00:01:09,000
+Hindi naman.
+
+20
+00:01:09,000 --> 00:01:11,000
+Nandili mo yung paningin?
+
+21
+00:01:11,000 --> 00:01:12,000
+Hindi naman.
+
+22
+00:01:12,000 --> 00:01:14,000
+Parang nag-compulsion po?
+
+23
+00:01:14,000 --> 00:01:16,000
+Wala naman.
+
+24
+00:01:16,000 --> 00:01:20,000
+Tapos, nanghihina po kayo, may ano po ba?
+
+25
+00:01:20,000 --> 00:01:23,000
+Ginawa po ng mga maneuver o may inom na gamot?
+
+26
+00:01:23,000 --> 00:01:24,000
+Tara doon?
+
+27
+00:01:24,000 --> 00:01:27,000
+Hindi, nagpahinga lang ako. Baka kasi sa init lang.
+
+28
+00:01:27,000 --> 00:01:30,000
+Tapos pinainom namin pineapple juice.
+
+29
+00:01:30,000 --> 00:01:32,000
+Tapos nag-check kami ng BP niya.
+
+30
+00:01:32,000 --> 00:01:35,000
+Normal naman, nasa 120.
+
+31
+00:01:35,000 --> 00:01:38,000
+Tapos after niya nagpunta na po kayo dito?
+
+32
+00:01:38,000 --> 00:01:42,000
+Oo, kasi sabi ko, tagal naman nito ng panghihina.
+
+33
+00:01:42,000 --> 00:01:45,000
+Kala ko na unay lang.
+
+34
+00:01:45,000 --> 00:01:48,000
+Hindi naman po naglagnat ng mga nakarang araw?
+
+35
+00:01:48,000 --> 00:01:50,000
+Hindi, hindi naman.
+
+36
+00:01:50,000 --> 00:01:51,000
+Ubo?
+
+37
+00:01:51,000 --> 00:01:52,000
+Ubo.
+
+38
+00:01:52,000 --> 00:01:53,000
+Sipon?
+
+39
+00:01:53,000 --> 00:01:55,000
+Sumasabat ng mga kasukasuhan?
+
+40
+00:01:55,000 --> 00:01:57,000
+Ng mga muscle?
+
+41
+00:01:58,000 --> 00:02:00,000
+Sakit ba itong sa kanan ko?
+
+42
+00:02:00,000 --> 00:02:02,000
+Hindi, ipanghihina lang talaga.
+
+43
+00:02:02,000 --> 00:02:04,000
+Anikip yung dib-deb?
+
+44
+00:02:04,000 --> 00:02:05,000
+Wala ba.
+
+45
+00:02:05,000 --> 00:02:06,000
+May hirapan huminga?
+
+46
+00:02:06,000 --> 00:02:07,000
+Hindi naman.
+
+47
+00:02:07,000 --> 00:02:08,000
+Nagsursuka?
+
+48
+00:02:08,000 --> 00:02:10,000
+Samakit yung chan?
+
+49
+00:02:10,000 --> 00:02:11,000
+Hindi.
+
+50
+00:02:11,000 --> 00:02:13,000
+Rashes?
+
+51
+00:02:13,000 --> 00:02:15,000
+Ma'am, may lang po ba kayong mga maintenance?
+
+52
+00:02:15,000 --> 00:02:17,000
+Or may iba ba kayong sakit?
+
+53
+00:02:17,000 --> 00:02:19,000
+Ano? Vitamins lang?
+
+54
+00:02:19,000 --> 00:02:20,000
+Hindi.
+
+55
+00:02:20,000 --> 00:02:24,000
+Hindi ba nung nagpa-checkup ka nung nag-45 ka last year?
+
+56
+00:02:24,000 --> 00:02:25,000
+Diba ano?
+
+57
+00:02:25,000 --> 00:02:28,000
+Sinabi ka na lang may high blood-catch liabilities.
+
+58
+00:02:28,000 --> 00:02:29,000
+Hindi naman, totoo yun.
+
+59
+00:02:29,000 --> 00:02:31,000
+Kaya nga wala ko, kaya vitamins lang hindi ko.
+
+60
+00:02:31,000 --> 00:02:38,000
+Niresitahan siya ng amlodipine pero hindi niya iniinom.
+
+61
+00:02:38,000 --> 00:02:39,000
+Kasi wala lang daw yun sa kanil.
+
+62
+00:02:39,000 --> 00:02:42,000
+Alam niyo po ba kung ilang milligrams yun?
+
+63
+00:02:42,000 --> 00:02:43,000
+50?
+
+64
+00:02:43,000 --> 00:02:44,000
+5?
+
+65
+00:02:44,000 --> 00:02:45,000
+10?
+
+66
+00:02:45,000 --> 00:02:46,000
+Wala nga yun.
+
+67
+00:02:46,000 --> 00:02:49,000
+Yung diabetes po, mayroon po bang binigay?
+
+68
+00:02:49,000 --> 00:02:51,000
+Tapos pinag-gayet lang siya doon.
+
+69
+00:02:51,000 --> 00:02:53,000
+Allergy sa pagkain ng sagamat?
+
+70
+00:02:53,000 --> 00:02:54,000
+Hindi.
+
+71
+00:02:54,000 --> 00:02:57,000
+Hindi naman po na operahan dati, nasa dina ng dugo.
+
+72
+00:02:57,000 --> 00:02:58,000
+Wala, wala.
+
+73
+00:02:58,000 --> 00:03:02,000
+Tapos, naninigarilyo po ba kayo?
+
+74
+00:03:02,000 --> 00:03:05,000
+Ngayon, hindi na.
+
+75
+00:03:05,000 --> 00:03:07,000
+Ganun ka lakas ka manigarilyo?
+
+76
+00:03:07,000 --> 00:03:11,000
+Isang araw lang.
+
+77
+00:03:11,000 --> 00:03:12,000
+Malakas.
+
+78
+00:03:12,000 --> 00:03:14,000
+Makailang stick ka ng isang araw?
+
+79
+00:03:14,000 --> 00:03:16,000
+Kulang isang kaha, kunti lang yun.
+
+80
+00:03:16,000 --> 00:03:20,000
+Tapos, alak po, malakas po ba kayong uminom ng alak?
+
+81
+00:03:20,000 --> 00:03:24,000
+Pa minsan-minsan, panagana lang na mamadyo.
+
+82
+00:03:24,000 --> 00:03:26,000
+Anong madalas iniinom niyo?
+
+83
+00:03:26,000 --> 00:03:29,000
+Yung ko nalang tagay nila.
+
+84
+00:03:29,000 --> 00:03:31,000
+Ano ba yung usual naman?
+
+85
+00:03:31,000 --> 00:03:33,000
+Gin bilog.
+
+86
+00:03:33,000 --> 00:03:34,000
+Kunti lang, kunti.
+
+87
+00:03:34,000 --> 00:03:36,000
+Malakas nga po kayo.
+
+88
+00:03:36,000 --> 00:03:37,000
+Hindi naman.
+
+89
+00:03:37,000 --> 00:03:40,000
+May history po bang gamamit ng pinagbabawal na gamot?
+
+90
+00:03:40,000 --> 00:03:41,000
+Ay hindi talaga.
+
+91
+00:03:41,000 --> 00:03:42,000
+Yan talaga, hindi.
+
+92
+00:03:42,000 --> 00:03:44,000
+Sabo, marewala, kahit tikim po.
+
+93
+00:03:44,000 --> 00:03:46,000
+Gabi ka naman.
+
+94
+00:03:46,000 --> 00:03:50,000
+Yan lang, kailangan lang po kasi namin completuhin eh.
+
+95
+00:03:50,000 --> 00:03:53,000
+Tapos, nagbantis po ba kayo dati?
+
+96
+00:03:53,000 --> 00:03:55,000
+Ay hindi.
+
+97
+00:03:55,000 --> 00:03:59,000
+Hindi naman po ano...
+
+98
+00:03:59,000 --> 00:04:02,000
+Nagreregla pa kayo mam.
+
+99
+00:04:02,000 --> 00:04:03,000
+Ay hindi na.
+
+100
+00:04:03,000 --> 00:04:05,000
+Kalan po natigil yung regla ninyo?
+
+101
+00:04:05,000 --> 00:04:07,000
+Nung 43?
+
+102
+00:04:07,000 --> 00:04:08,000
+43, 44...
+
+103
+00:04:08,000 --> 00:04:10,000
+Ha! 43, 43.
+
+104
+00:04:10,000 --> 00:04:11,000
+Pero linawin ko lang po.
+
+105
+00:04:11,000 --> 00:04:14,000
+Hindi po kayo nanganak dati eh.
+
+106
+00:04:14,000 --> 00:04:15,000
+Hindi.
+
+107
+00:04:15,000 --> 00:04:16,000
+Hindi isyo nabuhay eh.
+
+108
+00:04:16,000 --> 00:04:18,000
+So wala.
+
+109
+00:04:18,000 --> 00:04:19,000
+Paano po nabuhay?
+
+110
+00:04:19,000 --> 00:04:23,000
+So ilang beses po kayong nakunan?
+
+111
+00:04:23,000 --> 00:04:24,000
+Nabuntis daw ako isa.
+
+112
+00:04:24,000 --> 00:04:26,000
+Pero hindi kasi nabuhay yun eh.
+
+113
+00:04:26,000 --> 00:04:29,000
+Tapos wala na.
+
+114
+00:04:29,000 --> 00:04:32,000
+Tapos may mga contraceptive po bang iniinom?
+
+115
+00:04:32,000 --> 00:04:34,000
+Wala.
+
+116
+00:04:34,000 --> 00:04:35,000
+Eh sige po.
+

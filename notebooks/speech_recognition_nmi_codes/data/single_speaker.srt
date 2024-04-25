@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:06,000
+Good morning po. Ako pala si Dr. Martin. Ano po ang pangalan nila?
+
+2
+00:00:06,000 --> 00:00:08,000
+Juan de la Cruz po.
+
+3
+00:00:08,000 --> 00:00:10,000
+Juan de la Cruz. Ilang taon na po kayo?
+
+4
+00:00:10,000 --> 00:00:12,000
+Thirty years old po.
+
+5
+00:00:12,000 --> 00:00:16,000
+Ano po ang dahilan ba't po nagpunta sa emergency room? Ano po ang may papatingin?
+
+6
+00:00:16,000 --> 00:00:20,000
+Sakit po kasi ng chan ko, pamula pa po kaninang umaga.
+
+7
+00:00:20,000 --> 00:00:28,000
+Kaninang umaga? Sige. Ano po bang huli ninyong kinain bago po sumakit yung chan ninyo? Ano po ang ginagawa ninyo?
+
+8
+00:00:29,000 --> 00:00:35,000
+Actually po, kagabi, naginuman po kami ng mga kabarkada ko.
+
+9
+00:00:35,000 --> 00:00:45,000
+Pag uwi naman po, wala akong kinain. Pero pagkagising ko po kaninang umaga, dahil sa hangover ko, nagkape po ako.
+
+10
+00:00:45,000 --> 00:00:48,000
+Ano po bang ininom ninyo kagabi?
+
+11
+00:00:48,000 --> 00:00:54,000
+Puro hard liquor po, katulad ng vodka at tequila.
+
+12
+00:00:54,000 --> 00:01:00,000
+Okay. May estimate po ba ninyo na kailang baso o boti po ninyong inom ninyo kagabi?
+
+13
+00:01:00,000 --> 00:01:09,000
+Ang naalala ko po, dalawa po kami yung shot ng tequila at dalawang shot ng vodka.
+
+14
+00:01:09,000 --> 00:01:14,000
+Okay. Pero kahapon wala pa po kayong nararamdaman, hindi naman po kayong nagsuka?
+
+15
+00:01:14,000 --> 00:01:21,000
+Kahapon wala pa naman po. Nakauwi naman po ako sa bahay ng walang nararamdaman.
+
+16
+00:01:21,000 --> 00:01:24,000
+Okay. Tapos mga anong oras po kayong nagising kanina?
+
+17
+00:01:24,000 --> 00:01:36,000
+Kanina po nagising ako ng ala 5 dahil sa hilo, dahil sa hangover na pagdesisyonan ko po magkape.
+
+18
+00:01:36,000 --> 00:01:39,000
+After ko po magkape, doon na po sumakit yung chan ko.
+
+19
+00:01:39,000 --> 00:01:51,000
+Okay. So ngayon po kasi mga alas 8 na po. So kung 5 o'clock po yun, mga 3 oras na po na nakakalipas nung nagsimula po itong nararamdaman po ninyo.
+
+20
+00:01:51,000 --> 00:01:53,000
+Tapos uminom kayo ng kape.
+
+21
+00:01:53,000 --> 00:01:57,000
+Sige. So sa ambang parte ng chan po yung sumasakit sa inyo?
+
+22
+00:01:57,000 --> 00:02:03,000
+Yung pinaka nararamdaman ko po dito sa taas ng pusod.
+
+23
+00:02:03,000 --> 00:02:05,000
+Sa bandang sigmura po?
+
+24
+00:02:05,000 --> 00:02:06,000
+Apo.
+
+25
+00:02:06,000 --> 00:02:16,000
+Sige. Kung bibigay nyo po ng score kung gaano po siya kasakit, from 1 to 10, 10 sobrang sakit, 5 medyo, 0 wala. Ano po yung pain score po ninyo sa ngayon?
+
+26
+00:02:16,000 --> 00:02:20,000
+Sa ngayon po 7 out of 10.
+
+27
+00:02:20,000 --> 00:02:27,000
+Ah. So medyo masakit po talaga. Natagos po ba sa likod yung sakit o bandang gitna lang po? Diyan lang po sa sigmura?
+
+28
+00:02:28,000 --> 00:02:36,000
+Um, kanina po tumatagos sa likod pero ngayon po more on sa gitna lang talaga.
+
+29
+00:02:36,000 --> 00:02:44,000
+Okay. Kaya nyo po bang i-describe yung sakit? Paano po ba yung sakit niya? Mahapde? Parang tinutusok? Parang pinipiga? Ano po yung description nung sakit po?
+
+30
+00:02:44,000 --> 00:02:52,000
+Ngayon po parang mahapde na parang gusto ko pong dumighay at medyo nasusoka po.
+
+31
+00:02:52,000 --> 00:02:57,000
+Um, dus tuloy-tuloy po ito, hindi ma-nawawala po nga balik, kanun po?
+
+32
+00:02:57,000 --> 00:02:58,000
+O po.
+
+33
+00:02:58,000 --> 00:03:07,000
+Sige. Bukod po sa pananakit ng chance ngayon, meron po bang pagsusoka, hirap sa paghinga, masakit sa dib-dib? Ano po na nararamdaman?
+
+34
+00:03:08,000 --> 00:03:17,000
+Wala naman po sakit ng dib-dib pero parang hinahabol po yung hininga. Parang didighay po.
+
+35
+00:03:17,000 --> 00:03:18,000
+Okay.
+
+36
+00:03:18,000 --> 00:03:23,000
+Pero maliban po doon, wala naman po pagtuloy ng pagsusoka.
+
+37
+00:03:23,000 --> 00:03:26,000
+Um, kumasa naman po yung pagdumipo ninyo?
+
+38
+00:03:26,000 --> 00:03:36,000
+Sa pagdumi po, nung pagkauwi ko kagabi, nakadumi po ako ng isang beses pero ngayong umaga po wala pa po chance na makadumi.
+
+39
+00:03:36,000 --> 00:03:40,000
+Okay. Pero yung mga nakaraang araw, hindi naman maitim yung mga dumi mo.
+
+40
+00:03:40,000 --> 00:03:44,000
+Ano mga nakaraang araw? Wala naman po. Normal naman yung dumi ko po.
+
+41
+00:03:44,000 --> 00:03:45,000
+Normal na buo ang dumi ninyo.
+
+42
+00:03:45,000 --> 00:03:46,000
+O po.
+
+43
+00:03:46,000 --> 00:03:47,000
+Okay. Lagnat, meron ka ba?
+
+44
+00:03:47,000 --> 00:03:49,000
+Lagnat wala naman po.
+
+45
+00:03:49,000 --> 00:03:57,000
+Wala din. Sige. Um, bukod dito, meron ka bang mga ibang mga sakit gaya ng high blood, diabetes?
+
+46
+00:03:57,000 --> 00:04:00,000
+Wala naman po ng high blood o kaya diabetes.
+
+47
+00:04:00,000 --> 00:04:02,000
+Di ka na hospital recently?
+
+48
+00:04:02,000 --> 00:04:03,000
+Wala naman po.
+
+49
+00:04:03,000 --> 00:04:04,000
+Naoperahan?
+
+50
+00:04:04,000 --> 00:04:05,000
+Wala din.
+
+51
+00:04:05,000 --> 00:04:07,000
+Alergy sa pagkain, sa gamot?
+
+52
+00:04:07,000 --> 00:04:08,000
+Wala din po.
+
+53
+00:04:08,000 --> 00:04:10,000
+Ikaw ba ay naninigarilyo?
+
+54
+00:04:10,000 --> 00:04:11,000
+Hindi rin po.
+
+55
+00:04:11,000 --> 00:04:16,000
+Hindi. Pero itong paginom ng alak, komusta? Malakas ba tayong uminom?
+
+56
+00:04:16,000 --> 00:04:26,000
+Sa totoo po, halos linggo-linggo po lumalabas kami ng magkakaibigan para uminom.
+
+57
+00:04:26,000 --> 00:04:31,000
+Mga taon na rin po yung ganitong habit.
+
+58
+00:04:31,000 --> 00:04:34,000
+Okay. So sa isang linggo, mga ilang beses kaya ito?
+
+59
+00:04:34,000 --> 00:04:39,000
+Sa isang linggo, halos every other day po yung labas namin.
+
+60
+00:04:39,000 --> 00:04:44,000
+Alakas. Tapos ganun din yung karamin ng consumption na naninom mong alak.
+
+61
+00:04:44,000 --> 00:04:50,000
+O po. Doon po naglalaro. Minsan mas madami, minsan mas kote. Pero yung average po doon.
+
+62
+00:04:50,000 --> 00:04:56,000
+Okay. Sige. Um, ito naman eh standard question lang.
+
+63
+00:04:56,000 --> 00:04:59,000
+History ng paggamit ang pinagbabawal na gamot?
+
+64
+00:04:59,000 --> 00:05:03,000
+Ay wala pa po ako nasusubukan na kahit anong pinagbabawal na gamot.
+
+65
+00:05:03,000 --> 00:05:09,000
+Okay po. Sige. Pero sa pamilya mo, kamusta? Meron bang lahi ng high blood, diabetes?
+
+66
+00:05:09,000 --> 00:05:19,000
+Ang sa site po ng tatay ko may history ng high blood. Sa namin naman po ay diabetes po.
+
+67
+00:05:19,000 --> 00:05:24,000
+Okay. Sige. So sa ngayon naman, magagawa tayo na eksaminin kita.
+
+68
+00:05:24,000 --> 00:05:28,000
+Upunin ko yung mga vital signs mo ulitin lang natin.
+
+69
+00:05:28,000 --> 00:05:32,000
+Sige. So yung BP mo sa ngayon, check lang natin.
+
+70
+00:05:32,000 --> 00:05:38,000
+So 120 over 80 naman sir. So normal naman po yung BP ninyo. Yung heart rate naman punin nyo.
+
+71
+00:05:38,000 --> 00:05:45,000
+80 beats per minutes. Tapos yung respiratory rate nyo na sa 18 cycles per minute. Normal din po.
+
+72
+00:05:45,000 --> 00:05:50,000
+Yung temperatura po ninyo. 36.5 normal din po. Wala po kayong lagnat sa ngayon.
+
+73
+00:05:50,000 --> 00:05:54,000
+Maganda rin po yung level ng oxygen nyo at 98%.
+
+74
+00:05:55,000 --> 00:05:59,000
+Sige. Eksaminin lang kita sir ha.
+
+75
+00:05:59,000 --> 00:06:05,000
+Sige tingnan ko lang po yung mata po ninyo. Hindi naman po siya naninilaw. Hindi rin naman po umaputla.
+
+76
+00:06:05,000 --> 00:06:18,000
+So you have anectaric sclera, pink palpebral conjunctiva, no nasal oral discharge, no neck vein distension,
+
+77
+00:06:18,000 --> 00:06:30,000
+no anterior neck mass, perioral naman po, wala naman po no ulitions, no tonsiloparyngeal congestion.
+
+78
+00:06:30,000 --> 00:06:34,000
+Okay moving on po. Eksaminin ko lang po yung chest po ninyo.
+
+79
+00:06:34,000 --> 00:06:40,000
+Symmetrical chest expansion, clear breath sounds, no wheeze, no crackles.
+
+80
+00:06:40,000 --> 00:06:51,000
+Normal rate, regular rhythm, no murmur, soft, flat abdomen, with minimal tenderness at epigastric area.
+
+81
+00:06:51,000 --> 00:07:01,000
+And then full equal pulses with CRT of less than 2 seconds.
+
+82
+00:07:01,000 --> 00:07:09,000
+Now for my current assessment as Acid Peptic Disease, Rollout Acute Pancreatitis.
+
+83
+00:07:09,000 --> 00:07:17,000
+Now for our plan, I'll be inserting an IV axis, gauge 20.
+
+84
+00:07:17,000 --> 00:07:24,000
+And then I will hook my patient to plain NSS at 80cc per hour.
+
+85
+00:07:24,000 --> 00:07:29,000
+We'll give Pantoprasol 40mg IV now.
+
+86
+00:07:29,000 --> 00:07:33,000
+And then I will be requesting for the following diagnostics.
+
+87
+00:07:33,000 --> 00:07:40,000
+CBC, Urinalysis, Serum Lipase.
+
+88
+00:07:40,000 --> 00:07:47,000
+And then I will place my patient on NPO.
+
+89
+00:07:47,000 --> 00:07:55,000
+Okay and then we'll observe the patient monitor the vital signs every hour and for serial abdominal exam.
+
+90
+00:07:55,000 --> 00:08:01,000
+Okay sir, so bigay mo natin yung mga gamot, pasap po tayong ihi, tapos i-observe po natin kayo ngayon.
+
+91
+00:08:02,000 --> 00:08:03,000
+Salamat po sir.
+
+92
+00:08:03,000 --> 00:08:05,000
+Thank you sir, thank you do.
+
